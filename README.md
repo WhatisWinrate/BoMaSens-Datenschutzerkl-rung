@@ -1,19 +1,20 @@
-# BoMaSens-Datenschutzerklaerung
-
-Datenschutzerklärung
+BoMaSens-Datenschutzerklärung
 
 Die App „BoMaSens“ erhebt, speichert oder verarbeitet keine personenbezogenen Daten.
 
-Es werden keine Informationen über Nutzer, Geräte, Standorte oder Nutzungsverhalten
-gesammelt, übertragen oder an Dritte weitergegeben.
+Die App nutzt eine WLAN-Verbindung ausschließlich zur lokalen Kommunikation
+zwischen dem Smartphone und externen Geräten im selben Netzwerk.
+Dabei werden keine Daten an externe Server, Cloud-Dienste oder Dritte übertragen.
 
-Die App greift ausschließlich lokal auf Geräteschnittstellen (z. B. serielle Schnittstellen)
-zu, um ihre Funktion bereitzustellen. Diese Zugriffe erfolgen ausschließlich auf dem Gerät
-des Nutzers und ohne jegliche Datenübertragung an externe Server.
+Es findet keine Erfassung von Nutzerverhalten, Standortdaten, Gerätekennungen
+oder anderen personenbezogenen Informationen statt.
 
-Es werden keine Analyse-, Tracking-, Werbe- oder Drittanbieter-Dienste verwendet.
+Die App verwendet keine Analyse-, Tracking-, Werbe- oder Drittanbieter-Dienste.
 
-Bei Fragen zur App oder zum Datenschutz kontaktieren Sie bitte:
+Alle über WLAN ausgetauschten Daten verbleiben lokal im Netzwerk des Nutzers
+und dienen ausschließlich der Funktion der App.
+
+Bei Fragen zum Datenschutz kontaktieren Sie bitte:
 A.Schuepferling@innovent-jena.de
 
 Stand: Dezember 2025
